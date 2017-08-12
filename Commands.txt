@@ -1,0 +1,7 @@
+
+
+
+#Blast Commands
+blastp -db OrthoMCL_proteins -evalue 1e-10 -num_alignments 0 -seg yes -outfmt 2 -query Cterms.fasta -out Cterm_hits_local &
+blastp -db OrthoMCL_proteins -evalue 1e-10 -num_alignments 0 -seg yes -outfmt 2 -query Nterms.fasta -out Nterm_hits_local &
+
