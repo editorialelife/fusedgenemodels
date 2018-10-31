@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Coradetti et al., "Functional genomics of lipid metabolism in the oleaginous yeast Rhodosporidium toruloides". eLife, 2018. http://dx.doi.org/10.7554/eLife.32110
+
+
 Fused Gene Model Search Scripts
 This is a collection of scripts and commands used to find gene models likely to be erroneous fusions of two neighboring genes in the genome of the oleaginous yeast Rhodosporidium toruloides (also known as Rhodotorula toruloides).  These scripts are provided as supplementary material for the scientific article "Functional genomics of lipid metabolism in the oleaginous yeast Rhodosporidium toruloides" submitted to the journal eLife in September 2017. They are offered here to clarify our approach in revising this particular genome (publicly available at http://genome.jgi.doe.gov/Rhoto_IFO0880_4/) and for any re-use or revision for which they may have utility.
 
